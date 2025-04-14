@@ -18,6 +18,31 @@ namespace MAESTRO_Activity__2.Controllers
             return View();
         }
 
+        public IActionResult About()
+        {
+            return View();
+        }
+
+        public IActionResult Favorites()
+        {
+            return View();
+        }
+
+        public IActionResult Gallery()
+        {
+            return View();
+        }
+
+        public IActionResult Quote()
+        {
+            return View();
+        }
+
+        public IActionResult Contacts()
+        {
+            return View();
+        }
+
         public IActionResult Privacy()
         {
             return View();
